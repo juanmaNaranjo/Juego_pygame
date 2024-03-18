@@ -18,7 +18,7 @@ Para ejecutar este juego, necesitarás tener instalados los siguientes component
 
    
 ## Cómo Jugar
--Usa las teclas de flecha para mover al jugador por el mundo del juego.
--Usa las teclas 'A', 'S', 'D', 'W' para realizar diferentes acciones durante el juego.
--El objetivo del juego es derrotar al jefe ubicado en la parte inferior del mundo del juego.
+- Usa las teclas de flecha para mover al jugador por el mundo del juego.
+- Usa las teclas 'A', 'S', 'D', 'W' para realizar diferentes acciones durante el juego.
+- El objetivo del juego es derrotar al jefe ubicado en la parte inferior del mundo del juego.
 ###¡Disfruta del juego!
